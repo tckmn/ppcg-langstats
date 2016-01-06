@@ -1,0 +1,732 @@
+python: 5022
+javascript: 3021
+ruby: 1944
+perl: 1803
+c: 1782
+cjam: 1569
+haskell: 1343
+mathematica: 1248
+java: 1181
+pyth: 1164
+php: 1072
+golfscript: 1033
+c#: 874
+bash: 843
+j: 820
+apl: 636
+r: 626
+c++: 570
+matlab: 476
+task: 453
+powershell: 449
+scala: 385
+julia: 378
+k: 333
+brainfuck: 279
+lua: 273
+befunge: 229
+ti-basic: 220
+groovy: 198
+&gt;&amp;lt;&gt;: 183
+common lisp: 148
+sed: 144
+clojure: 144
+coffeescript: 131
+tcl: 130
+batch: 125
+retina: 124
+q: 123
+octave: 122
+dc: 116
+t-sql: 103
+vba: 102
+html: 100
+sh: 99
+prolog: 99
+awk: 98
+f#: 97
+d: 94
+japt: 93
+rebol: 88
+go: 84
+cobra: 78
+ecmascript: 78
+seriously: 72
+postscript: 72
+fortran: 71
+pip: 70
+marbelous: 70
+idea: 67
+processing: 66
+delphi: 66
+teascript: 65
+minkolang: 65
+smalltalk: 65
+qbasic: 64
+swift: 59
+matl: 57
+o: 55
+applescript: 53
+pari/gp: 52
+description: 51
+gs: 50
+mouse: 50
+bbc basic: 50
+hassium: 49
+burlesque: 49
+vitsy: 48
+whitespace: 48
+forth: 47
+swi-prolog: 47
+rust: 45
+scheme: 43
+ceylon: 42
+stata: 40
+racket: 40
+gema: 39
+rs: 38
+erlang: 38
+piet: 38
+vbscript: 37
+labyrinth: 36
+demo: 35
+emacs lisp: 34
+ocaml: 33
+vb.net: 33
+game maker language: 31
+node.js: 31
+css: 31
+labview: 30
+clip: 30
+gtb: 30
+mumps: 30
+dart: 30
+sage: 30
+sql: 29
+bc: 29
+jelly: 28
+pascal: 28
+specbas: 27
+matlab/octave: 27
+jolf: 26
+autoit: 25
+commodore: 25
+basic: 25
+prelude: 24
+rev: 24
+sclipting: 24
+autohotkey: 24
+milky way: 23
+hexagony: 23
+stuck: 23
+jq: 23
+test output: 23
+sas: 23
+zsh: 23
+simplex v.: 22
+golflua: 22
+element: 22
+x86 machine code: 22
+algorithm: 22
+factor: 22
+microscript: 21
+ti-: 21
+note: 21
+tests: 21
+foo: 20
+extended brainfuck: 20
+gawk: 20
+explanations: 19
+fission: 19
+livescript: 19
+rebmu: 19
+lolcode: 19
+beam: 18
+insomnia: 18
+golf-basic: 18
+tex: 18
+function: 18
+objective-c: 18
+actionscript: 18
+funciton: 18
+hq9+: 18
+shapescript: 17
+snowman: 17
+verification: 17
+expanded: 17
+4: 17
+vim: 17
+candy: 16
+part: 16
+result: 16
+unary: 16
+pb: 15
+matlab / octave: 15
+thue: 15
+z: 15
+excel vba: 15
+2: 15
+background: 15
+excel: 15
+///: 14
+pyg: 14
+regex: 14
+alternative: 14
+malbolge: 14
+c/c++: 14
+3: 14
+batch file: 14
+arcyóu: 13
+microscript ii: 13
+gnu dc: 13
+kdb: 13
+scratch: 13
+usage example: 13
+~-~!: 13
+command script: 13
+unix shell: 13
++: 13
+latex: 13
+svg: 13
+logo: 13
+platypar: 12
+par: 12
+fourier: 12
+self-modifying brainfuck: 12
+generator: 12
+5: 12
+cmd: 12
+1: 12
+jquery: 12
+ada: 12
+assembly: 12
+c -: 12
+ungolfed and explanation: 11
+bubblegum: 11
+idl: 11
+turing machine code: 11
+teco: 11
+polyglot: 11
+windows: 11
+method: 11
+nimrod: 11
+updates: 11
+breakdown: 11
+i/o: 11
+changelog: 11
+x86 assembly: 11
+lisp: 11
+beeswax: 10
+05ab: 10
+math++: 10
+snails: 10
+fishing: 10
+cardinal: 10
+fantom: 10
+original code: 10
+80386 machine code: 10
+total: 10
+kona: 10
+gnu awk: 10
+execution: 10
+un-golfed: 10
+samau: 9
+botengine: 9
+hpppl: 9
+remarks: 9
+rail: 9
+test program: 9
+flogscript: 9
+nim: 9
+moonscript: 9
+ised: 9
+sample outputs: 9
+source: 9
+wolfram language: 9
+jsfuck: 9
+html/javascript: 9
+fish: 9
+scoring: 9
+fernando: 9
+false: 9
+q/k: 9
+readable version: 9
+interpreter: 9
+bf: 9
+or: 9
+c function: 9
+goruby: 9
+gcc: 9
+snake: 8
+ouroboros: 8
+gol&gt;&amp;lt;&gt;: 8
+arnoldc: 8
+mariolang: 8
+gnu sed -r: 8
+approach: 8
+headsecks: 8
+ooo code: 8
+unminified: 8
+commodore basic: 8
+example runs: 8
+gml: 8
+#: 8
+hint: 8
+original solution: 8
+c# in linqpad: 8
+deadfish: 8
+pogo: 8
+inform: 8
+powershell v: 8
+exed: 8
+x86_: 8
+linux shell: 8
+zozotez lisp: 8
+7: 8
+older version: 8
+oracle sql: 8
+summary: 8
+vb: 8
+newlisp: 8
+10: 8
+cobol: 8
+linux: 8
+score =: 8
+features: 8
+6: 8
+unlambda: 8
+wolfram alpha: 8
+vimscript: 8
+binary-encoded golfical: 7
+brian &amp;amp; chuck: 7
+minecraft: 7
+clojure/clojurescript: 7
+macaroni: 7
+cbm basic v: 7
+???: 7
+how this works: 7
+programs: 7
+shakespeare: 7
+previous: 7
+ostrich: 7
+jagl alpha: 7
+a: 7
+tinymush: 7
+decoder: 7
+encoder: 7
+previous version: 7
+analysis: 7
+dg: 7
+with indent: 7
+xquery: 7
+what it does: 7
+scala repl: 7
+python shell: 7
+arduino: 7
+exation: 7
+alternate version: 7
+unreadable: 7
+flex: 7
+in q: 7
+chef: 7
+csharp: 7
+maple: 7
+v: 7
+limitations: 7
+cat: 7
+bc -l: 7
+rot: 7
+dstack: 6
+aubergine: 6
+rotor: 6
+chaîne: 6
+desmos: 6
+msm: 6
+ia: 6
+ruby rev: 6
+joe: 6
+kotlin: 6
+3var: 6
+enema: 6
+test runs: 6
+lenguage: 6
+random: 6
+performances: 6
+rexx: 6
+strategy: 6
+coward: 6
+sample runs: 6
+html+javascript: 6
+n =: 6
+sinclair basic: 6
+ksh: 6
+how to use: 6
+haskell -: 6
+p: 6
+ti basic: 6
+pov-ray: 6
+glsl: 6
+c / c++: 6
+posix shell: 6
+5 characters: 6
+batch script: 6
+spoiler: 6
+8086 machine code: 6
+elm: 6
+screenshot: 6
+sage notebook: 6
+octave / matlab: 6
+fractran: 6
+rpl: 6
+c program: 6
+readable: 6
+visual basic: 6
+mysql: 6
+tr: 6
+roop: 5
+bitshift: 5
+ungolfed &amp;amp;&amp;amp; explanation: 5
+motorola mc: 5
+carrot: 5
+acc!: 5
+jacobfck: 5
+loader: 5
+staq: 5
+underload: 5
+goto++: 5
+regxy: 5
+starry: 5
+red: 5
+this programming language: 5
+haxe: 5
+pdp: 5
+beatnik: 5
+unefunge: 5
+evil: 5
+golunar: 5
+emmental: 5
+gibberish: 5
+deadfish~: 5
+.net regex: 5
+rant: 5
+pcre: 5
+mips: 5
+outputs: 5
+golfed code: 5
+commented: 5
+zx spectrum basic: 5
+rpython: 5
+randombot: 5
+gnu bc: 5
+nars: 5
+gnuplot: 5
+-: 5
+gnu coreutils: 5
+sagemath: 5
+dash: 5
+11: 5
+dos batch: 5
+formatted: 5
+some explanation: 5
+8: 5
+challenge: 5
+expanded code: 5
+redcode: 5
+ansi c: 5
+h: 5
+alternative solution: 5
+running: 5
+performance: 5
+details: 5
+4 chars: 5
+binary lambda calculus: 5
+3.: 5
+benchmarks: 5
+first version: 5
+bash script: 5
+intercal: 5
+13: 5
+postgresql: 5
+m: 5
+arithmetic: 5
+haskell program: 5
+pl: 4
+gap: 4
+templates considered harmful: 4
+resplicate: 4
+explanation &amp;amp;&amp;amp; ungolfed: 4
+ಠ_ಠ: 4
+ngn apl: 4
+blitz: 4
+recall: 4
+self-modifying brainf***: 4
+brachylog: 4
+ziim: 4
+quipu: 4
+mornington crescent: 4
+stack: 4
+subskin: 4
+jasmin: 4
+befalse: 4
+j--: 4
+pretty-printed: 4
+test it here: 4
+slip: 4
+table: 4
+building the executable: 4
+c# .net: 4
+lazy k: 4
+gammaplex: 4
+kipple: 4
+l: 4
+pancake stack: 4
+xojo: 4
+previous answer: 4
+12: 4
+seed: 4
+bonus challenge: 4
+var'aq: 4
+algoid: 4
+4 languages: 4
+disclaimer: 4
+html/js: 4
+test results: 4
+purple: 4
+io: 4
+old versions: 4
+wolfram: 4
+felix: 4
+netlogo: 4
+wxmaxima: 4
+improvements: 4
+short explanation: 4
+befunge ': 4
+c-sharp: 4
+less golfed: 4
+alternatively: 4
+to run: 4
+supercollider: 4
+base: 4
+geogebra: 4
+xml: 4
+calculator: 4
+frink: 4
+php &gt;=: 4
+images: 4
+html/css: 4
+hello: 4
+chinese: 4
+spoon: 4
+chicken: 4
+ascii: 4
+k/kona: 4
+rebel: 4
+ix2web: 4
+text: 4
+issues: 4
+c# linq: 4
+xslt: 4
+html+css: 4
+command prompt: 4
+warning: 4
+python -: 4
+implementation: 4
+~: 4
+tsql: 4
+compilation: 4
+python &amp;ndash: 4
+html / javascript: 4
+ipython: 4
+previous solution: 4
+maxima: 4
+&gt;&amp;lt;&gt: 4
+ghostscript: 4
+commentary: 4
+oracle: 4
+instructions: 4
+visual basic .net: 4
+overview: 4
+ruby &gt;=: 4
+vala: 4
+1.: 4
+vi: 4
+x86: 4
+source code: 4
+caveats: 4
+&amp;lt;&gt;&amp;lt;: 4
+pseudocode: 4
+haskell function: 4
+golfscript -: 4
+as a function: 4
+bash shell: 4
+javascript function golf: 3
+whoscript: 3
+unicorn: 3
+emotinomicon: 3
+fltk: 3
+anirad: 3
+stxtrm: 3
+lua for windows: 3
+osascript: 3
+hpr: 3
+firetype: 3
+simplex: 3
+moo: 3
+caché objectscript: 3
+g*: 3
+unibasic: 3
+previous-er: 3
+sprects: 3
+ß: 3
+try it online!: 3
+hp: 3
+shortscript: 3
+yorick: 3
+haystack: 3
+wtfzomfg: 3
+mascarpone: 3
+transcript: 3
+example i/o: 3
+minor note: 3
+brainbool: 3
+try it: 3
+crystal: 3
+player: 3
+tinybf: 3
+code explanation: 3
+pma/snails: 3
+previous submission: 3
+gnu make: 3
+chuck: 3
+jagl v: 3
+glypho: 3
+15: 3
+intended solution: 3
+betterave: 3
+axo: 3
+eta: 3
+asdf: 3
+curry: 3
+squirrel: 3
+canecode: 3
+argh!: 3
+super stack!: 3
+ook!: 3
+java script: 3
+66 bytes: 3
+12 languages: 3
+attacker: 3
+readable code: 3
+sniper: 3
+whirl: 3
+makefile: 3
+second: 3
+hodor: 3
+basilisk: 3
+jumper: 3
+more readable: 3
+html javascript: 3
+123: 3
+19: 3
+aheui: 3
+bacchus: 3
+how to run: 3
+ahk: 3
+apple swift: 3
+visual foxpro: 3
+stats: 3
+bonus solution: 3
+movement: 3
+initialization: 3
+brief explanation: 3
+loop: 3
+perl/tk: 3
+straight shooter: 3
+grep: 3
+javascript/es: 3
+javascript/html: 3
+syntax: 3
+spin: 3
+full code: 3
+dogescript: 3
+literate haskell: 3
+trolling: 3
+php ≥: 3
+testcases: 3
+brainfuck$: 3
+processing.js: 3
+imagemagick: 3
+javascript/jscript: 3
+52 bytes: 3
+mirc script: 3
+the algorithm: 3
+input and output: 3
+freepascal: 3
+gw-basic: 3
+c preprocessor: 3
+golf: 3
+q/kdb: 3
+6 bytes: 3
+cow: 3
+cpython: 3
+lines: 3
+15 chars: 3
+huh?: 3
+html and css: 3
+quomplex: 3
+another solution: 3
+first: 3
+in action: 3
+action script: 3
+output example: 3
+perl -p: 3
+tcl/tk: 3
+final score: 3
+chrome: 3
+c&amp;#: 3
+14: 3
+credits: 3
+ed: 3
+bourne shell: 3
+dos: 3
+atari basic: 3
+erlang escript: 3
+38: 3
+sml: 3
+annotated version: 3
+online test: 3
+k/q: 3
+39 bytes: 3
+coq: 3
+txr: 3
+c &amp;amp; c++: 3
+4.: 3
+nemerle: 3
+implementation notes: 3
+bash and friends: 3
+k&amp;amp;r c -: 3
+lambda calculus: 3
+minified: 3
+11 : 3
+previous attempts: 3
+3 chars: 3
+pdftex: 3
+applesoft basic: 3
+excel formula: 3
+2.: 3
+alternate: 3
+validation: 3
+x86 asm: 3
+coffee script: 3
+with comments: 3
+assumptions: 3
+fsharp: 3
+possible improvements: 3
+41 characters: 3
+python v: 3
+wake: 3
+b: 3
+comments: 3
+detailed explanation: 3
+reference implementation: 3
+fob: 3
