@@ -16,7 +16,8 @@ File.open('../datadump/Posts.xml') {|f|
 
         body.gsub!(/&#x([^;]+);/) { $1.to_i(16).chr }
 
-        body.scan(/&lt;h.&gt;(.*?)&lt;\/h.&gt;/).each do |lang|
+        lang = body.scan(/&lt;h.&gt;(.*?)&lt;\/h.&gt;/).first
+        if lang
             lang = lang.first
             lang.downcase!                # standardize case
             lang.gsub! /&lt;.*?&gt;/, ''  # strip html
@@ -39,38 +40,31 @@ File.open('../datadump/Posts.xml') {|f|
             lang.gsub! /(?<=\D)(?<!x)(?<!ti)(?<!hq)(\s*[;(\u2010-\u2014-]?\s*\d).*/, ''
 
             # a few special cases
-            lang.sub!(/^windows\s+/, '')
+            lang.sub!(/^(windows|gnu)\s+/, '')
             lang = 'javascript' if %w[javascript\ es es js].include? lang
             lang = 'bash' if lang =~ /bash.*coreutils/
             lang = 'brainfuck' if lang =~ /^brain[f*][u*][c*][k*]$/
             lang = 'sh' if %w[shell\ script shell].include? lang
             lang = 'delphi' if lang == 'delphi xe'
-            lang = 'sed' if lang == 'gnu sed'
             lang = 'apl' if lang == 'dyalog apl'
 
-            # these aren't languages
-            l2 = lang.clone
-            %w[the sample example old ungolfed].each{|s| l2.sub! /^\s*#{s}\s*/, '' }
-            %w[: version run].each{|e| l2.sub! /\s*#{e}\s*$/, '' }
-            next if %w[length explanation output answer how\ it\ works code \
-              edit ungolfed example problem usage score examples golfed \
-              original results update updated version language solution edits \
-              testing test test\ cases notes dissection s run program \
-              languages bonus input].include? l2
-            next if l2 == ''
-
-            next if lang == ''
-
             # these probably aren't language names
-            next if lang.count(' ') >= 3
+            if %w[answer bonus code dissection edit example\ answer \
+                  explanation language languages notes output program \
+                  reference\ implementation results score solution task test \
+                  update].include?(lang) ||
+                #lang.count(' ') >= 3 ||
+                lang == ''
+                # NOP
+            else
+                #puts "#{lang} ||| #{link}"
 
-            #puts "#{lang} ||| #{link}"
-
-            h[lang] += [{
-                id: id,
-                qid: qid,
-                score: score
-            }]
+                h[lang] += [{
+                    id: id,
+                    qid: qid,
+                    score: score
+                }]
+            end
         end
     }
 }
@@ -79,7 +73,7 @@ File.open('../datadump/Posts.xml') {|f|
 # probably not a real language (ex. "factoid")
 # this also filters out junk that only occurs once
 h.keys.each do |k|
-    if h[k].map{|x| x[:qid] }.uniq.length < 3
+    if h[k].map{|x| x[:qid] }.uniq.length == 1
         h.delete k
     end
 end
